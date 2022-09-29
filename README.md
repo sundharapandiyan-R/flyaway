@@ -21,6 +21,7 @@ Home displays the application name (FlyAway) and two options - Book Flights and 
 
 # flyaway-screenshot-homepage
 
+![image](https://user-images.githubusercontent.com/109785057/192957087-db96f886-bd83-41c4-9efa-7a268d13b320.png)
 
 
 # Book Flights -
